@@ -1,0 +1,20 @@
+{
+    "education":[
+        {
+            "title": "June 2019-June 2023",
+            "cardTitle": "Jose Maria College Foundation Inc.",
+            "cardSubtitle":"Davao City",
+            "icon" : {
+                "src": "images/education/jmclogo.png"
+            }
+        },
+        {
+            "title": "June 2013 - March 2019",
+            "cardTitle": "Saint Michael's School of Padada",
+            "cardSubtitle":"Padada Davao del Sur",
+            "icon" : {
+                "src": "images/education/smsplogo.png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "facebook",
+            "href": "https://www.facebook.com/Maknaezxc"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/KeithArmandMarie"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:caballerokeith2@gmail.com"
+        }
+    ]
+}

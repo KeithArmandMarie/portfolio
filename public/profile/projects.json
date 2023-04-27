@@ -1,0 +1,42 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfoliologo.png",
+            "title": "Keith Portfolio",
+            "bodyText": "Simple yet astonishing Website Portfolio",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/KeithArmandMarie"
+                }
+                
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/skincure.png",
+            "title": "SkinCure: An Android Based Skin Disease Image Classifier using CNN",
+            "bodyText": "A Mobile Based Android Application that can able to detect and classify various Skin Diseases.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/KeithArmandMarie"
+                }
+        
+            ],
+            "tags" : [
+                "Python",
+                "React Native",
+                "Expo",
+                "SQLite",
+                "Django",
+                "Django Rest Framework"
+            ]
+        }
+    ]
+}
+

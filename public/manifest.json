@@ -1,0 +1,15 @@
+{
+  "short_name": "Keith",
+  "name": "keith Armand Marie Caballero - Portfolio",
+  "icons": [
+    {
+      "src": "./images/KAMLC.png",
+      "type": "image/png",
+      "sizes": "425x225"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

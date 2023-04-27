@@ -1,0 +1,14 @@
+{
+    "experiences": [
+        {
+            "title": "Lead Developer",
+            "subtitle": "SkinCure: An Android Based Skin Disease Image Classifier using CNN",
+            "workType": "Student",
+            "workDescription": [
+                "Created a Mobile Application that can able to detect and classify skin diseases."
+
+            ],
+            "dateText": "2022/2023"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "logo" : {
+        "source": "images/KAMLC.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/drive/u/1/folders/109_ehywDQ5ruFmiJQr7Sqn01t0NY-JMo",
+            "type": "link"
+        }
+    ]
+
+}
