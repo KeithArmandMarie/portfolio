@@ -18,11 +18,11 @@ const styles = {
 };
 
 const Projects = (props) => {
-  const theme = useContext(ThemeContext);
+  const { accentColor, chronoTheme } = useContext(ThemeContext);
+  console.log('The theme is ' + chronoTheme);
   const { header } = props;
   const [data, setData] = useState(null);
   const [showMore, setShowMore] = useState(false);
-
   useEffect(() => {
     fetch(endpoints.projects, {
       method: 'GET',
@@ -51,7 +51,7 @@ const Projects = (props) => {
                 && (
                 <Button
                   style={styles.showMoreStyle}
-                  variant={theme.bsSecondaryVariant}
+                  variant={accentColor.bsSecondaryVariant}
                   onClick={() => setShowMore(true)}
                 >
                   show more

@@ -34,7 +34,8 @@ const styles = {
 };
 
 const ProjectCard = (props) => {
-  const theme = useContext(ThemeContext);
+  const { accentColor, chronoTheme } = useContext(ThemeContext);
+  console.log('The theme is ' + chronoTheme);
   const parseBodyText = (text) => <ReactMarkdown children={text} />;
 
   const { project } = props;
@@ -44,10 +45,10 @@ const ProjectCard = (props) => {
       <Card
         style={{
           ...styles.cardStyle,
-          backgroundColor: theme.cardBackground,
-          borderColor: theme.cardBorderColor,
+          backgroundColor: accentColor.cardBackground,
+          borderColor: accentColor.cardBorderColor,
         }}
-        text={theme.bsSecondaryVariant}
+        text={accentColor.bsSecondaryVariant}
       >
         <Card.Img variant="top" src={project?.image} />
         <Card.Body>
@@ -62,7 +63,7 @@ const ProjectCard = (props) => {
             <Button
               key={link.href}
               style={styles.buttonStyle}
-              variant={'outline-' + theme.bsSecondaryVariant}
+              variant={'outline-' + accentColor.bsSecondaryVariant}
               onClick={() => window.open(link.href, '_blank')}
             >
               {link.text}
@@ -70,13 +71,13 @@ const ProjectCard = (props) => {
           ))}
         </Card.Body>
         {project.tags && (
-          <Card.Footer style={{ backgroundColor: theme.cardFooterBackground }}>
+          <Card.Footer style={{ backgroundColor: accentColor.cardFooterBackground }}>
             {project.tags.map((tag) => (
               <Badge
                 key={tag}
                 pill
-                bg={theme.bsSecondaryVariant}
-                text={theme.bsPrimaryVariant}
+                bg={accentColor.bsSecondaryVariant}
+                text={accentColor.bsPrimaryVariant}
                 style={styles.badgeStyle}
               >
                 {tag}

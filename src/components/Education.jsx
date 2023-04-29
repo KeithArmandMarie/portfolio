@@ -10,7 +10,8 @@ import FallbackSpinner from './FallbackSpinner';
 import '../css/education.css';
 
 function Education(props) {
-  const theme = useContext(ThemeContext);
+  const { accentColor, chronoTheme } = useContext(ThemeContext);
+  console.log('The theme is ' + chronoTheme);
   const { header } = props;
   const [data, setData] = useState(null);
   const [width, setWidth] = useState('50vw');
@@ -54,11 +55,11 @@ function Education(props) {
                 cardHeight={250}
                 mode={mode}
                 theme={{
-                  primary: theme.accentColor,
-                  secondary: theme.accentColor,
-                  cardBgColor: theme.chronoTheme.cardBgColor,
-                  cardForeColor: theme.chronoTheme.cardForeColor,
-                  titleColor: theme.chronoTheme.titleColor,
+                  primary: accentColor.accentColor,
+                  secondary: accentColor.accentColor,
+                  cardBgColor: accentColor.chronoTheme,
+                  cardForeColor: accentColor.chronoTheme,
+                  titleColor: accentColor.chronoTheme,
                 }}
               >
                 <div className="chrono-icons">
