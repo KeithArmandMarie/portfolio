@@ -36,6 +36,26 @@
                 "Django",
                 "Django Rest Framework"
             ]
+        },
+        {
+            "image" : "images/projects/forfinals.png",
+            "title": "For Finals Website Requirement",
+            "bodyText": "A website created about my experience as an OJT intern.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/KeithArmandMarie"
+                }
+        
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "WordPress",
+                "Elementor"
+                
+            ]
         }
     ]
 }

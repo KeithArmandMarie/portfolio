@@ -26,6 +26,10 @@
                     "title": "Python"
                 },
                 {
+                    "icon": "images/skills/csharp.png",
+                    "title": "C#"
+                },
+                {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
                 },
@@ -45,10 +49,6 @@
                 {
                     "icon": "images/skills/elementor.webp",
                     "title": "Elementor"
-                },
-                {
-                    "icon": "images/skills/wix.png",
-                    "title": "Wix"
                 }
             ]
         },
