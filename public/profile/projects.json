@@ -7,7 +7,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/KeithArmandMarie"
+                    "href": "https://github.com/KeithArmandMarie/portfolio"
                 }
                 
             ],
@@ -24,7 +24,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/KeithArmandMarie"
+                    "href": "https://github.com/KeithArmandMarie/SkinCure-Final"
                 }
         
             ],
@@ -38,13 +38,33 @@
             ]
         },
         {
+            "image" : "images/projects/Q2 HS.png",
+            "title": "Web Scrapping: Internet Service Provider",
+            "bodyText": "A simple Web Scrapping about the ISP in the Philippines",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/KeithArmandMarie/Wordcloud"
+                }
+        
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "Python",
+                "Jupyter",
+                "Google Colab"
+                
+            ]
+        },
+        {
             "image" : "images/projects/forfinals.png",
             "title": "For Finals Website Requirement",
             "bodyText": "A website created about my experience as an OJT intern.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/KeithArmandMarie"
+                    "href": "https://github.com/KeithArmandMarie/For-Finals"
                 }
         
             ],

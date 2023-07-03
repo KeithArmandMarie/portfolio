@@ -58,6 +58,11 @@
                 {
                     "icon": "images/skills/drflogo.png",
                     "title": "Django Rest Framework"
+                },
+                {
+                    "icon": "images/skills/NET_Core_Logo.svg.png",
+                    "title": ".NET Core"
+                    
                 }
             ]
         },
@@ -75,6 +80,14 @@
                 {
                     "icon": "images/skills/expo.png",
                     "title": "Expo"
+                },
+                {
+                    "icon": "images/skills/Visual-Studio-Logo-2019.png",
+                    "title": "Microsoft Visual Studio"
+                },
+                {
+                    "icon": "images/skills/Visual_Studio_Code.webp",
+                    "title": "VS Code"
                 }
             ]
     }
