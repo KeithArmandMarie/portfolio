@@ -22,20 +22,12 @@
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
                     "icon": "images/skills/csharp.png",
                     "title": "C#"
                 },
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
-                },
-                {
-                    "icon": "images/skills/djangologo.png",
-                    "title": "Django"
                 }
         ]
     },
@@ -53,20 +45,6 @@
             ]
         },
         {
-            "title": "Frameworks",
-            "items" : [
-                {
-                    "icon": "images/skills/drflogo.png",
-                    "title": "Django Rest Framework"
-                },
-                {
-                    "icon": "images/skills/NET_Core_Logo.svg.png",
-                    "title": ".NET Core"
-                    
-                }
-            ]
-        },
-        {
             "title" : "Tools & Platforms",
             "items": [
                 {
@@ -76,10 +54,6 @@
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
-                },
-                {
-                    "icon": "images/skills/expo.png",
-                    "title": "Expo"
                 },
                 {
                     "icon": "images/skills/Visual-Studio-Logo-2019.png",
