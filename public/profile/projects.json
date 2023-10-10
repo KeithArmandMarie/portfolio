@@ -6,8 +6,8 @@
             "bodyText": "Simple yet astonishing Website Portfolio",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/KeithArmandMarie/portfolio"
+                    "text": "Click to Visit",
+                    "href": "https://keitharmandmarie.vercel.app/"
                 }
                 
             ],
@@ -15,6 +15,46 @@
                 "React",
                 "Portfolio",
                 "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/medicare-cover.png",
+            "title": "Medicare Landing Page",
+            "bodyText": "A sample Responsive Landing Page for Medicare",
+            "links": [
+                {
+                    "text": "Click to Visit",
+                    "href": "https://medicarelandingpage.vercel.app/"
+                }
+                
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "PHP",
+                "WordPress",
+                "Elementor"
+            ]
+        },
+        {
+            "image" : "images/projects/forfinals.png",
+            "title": "For Finals Website Requirement",
+            "bodyText": "A website created about my experience as an OJT intern.",
+            "links": [
+                {
+                    "text": "Click to Visit",
+                    "href": "https://for-finals.vercel.app/"
+                }
+        
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "WordPress",
+                "Elementor"
+                
             ]
         },
         {
@@ -56,27 +96,8 @@
                 "Google Colab"
                 
             ]
-        },
-        {
-            "image" : "images/projects/forfinals.png",
-            "title": "For Finals Website Requirement",
-            "bodyText": "A website created about my experience as an OJT intern.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/KeithArmandMarie/For-Finals"
-                }
-        
-            ],
-            "tags" : [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "WordPress",
-                "Elementor"
-                
-            ]
         }
+        
     ]
 }
 

@@ -1,6 +1,16 @@
 {
     "experiences": [
         {
+            "title": "Front End Developer/ Manual Quality Assurance Tester",
+            "subtitle": "SPlace Lead Generation System",
+            "workType": "Student",
+            "workDescription": [
+                "Was one of the student who made the automated system to generate leads at Splace Company. "
+
+            ],
+            "dateText": "2023"
+        },
+        {
             "title": "Lead Developer",
             "subtitle": "SkinCure: An Android Based Skin Disease Image Classifier using CNN",
             "workType": "Student",
@@ -10,5 +20,6 @@
             ],
             "dateText": "2022/2023"
         }
+        
     ]
 }
