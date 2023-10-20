@@ -24,10 +24,6 @@
                 {
                     "icon": "images/skills/csharp.png",
                     "title": "C#"
-                },
-                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
                 }
         ]
     },
@@ -41,6 +37,10 @@
                 {
                     "icon": "images/skills/elementor.webp",
                     "title": "Elementor"
+                },
+                {
+                    "icon": "images/skills/acf-logo.png",
+                    "title": "ACF"
                 }
             ]
         },
@@ -56,13 +56,14 @@
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/Visual-Studio-Logo-2019.png",
-                    "title": "Microsoft Visual Studio"
-                },
-                {
                     "icon": "images/skills/Visual_Studio_Code.webp",
                     "title": "VS Code"
+                },
+                {
+                    "icon": "images/skills/figma.png",
+                    "title": "Figma"
                 }
+
             ]
     }
 ]}
