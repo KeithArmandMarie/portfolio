@@ -18,6 +18,27 @@
             ]
         },
         {
+            "image" : "images/projects/carentalbg.png",
+            "title": "Car Rental Website",
+            "bodyText": "A responsive car rental website created using WordPress, Elementor, ACF, custom coding and other plug ins.",
+            "links": [
+                {
+                    "text": "Click to Visit",
+                    "href": "https://car-rental-flame.vercel.app/"
+                }
+                
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "PHP",
+                "WordPress",
+                "Elementor",
+                "Advance Custom Field"
+            ]
+        },
+        {
             "image" : "images/projects/medicare-cover.png",
             "title": "Medicare Landing Page",
             "bodyText": "A sample Responsive Landing Page for Medicare",
