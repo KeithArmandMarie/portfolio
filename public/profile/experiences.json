@@ -1,9 +1,19 @@
 {
     "experiences": [
         {
+            "title": "Frontend Developer / UI/UX Designer",
+            "subtitle": "FunctionEight",
+            "workType": "Full-time",
+            "workDescription": [
+                "Crafting visually captivating web applications, blending functionality with aesthetics, and ensuring seamless user experiences as a frontend developer and UI/UX Designer."
+
+            ],
+            "dateText": "Oct.2023-Present"
+        },
+        {
             "title": "Front End Developer/ Manual Quality Assurance Tester",
             "subtitle": "SPlace Lead Generation System",
-            "workType": "Student",
+            "workType": "Intern",
             "workDescription": [
                 "Was one of the student who made the automated system to generate leads at Splace Company. "
 
