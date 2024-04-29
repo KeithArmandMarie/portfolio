@@ -1,7 +1,64 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfoliologo.png",
+            "image" : "images/projects/fifthreturn.png",
+            "title": "Fifth Return",
+            "bodyText": "A premiere management consulting firm that aims to help clients with their bussiness.",
+            "links": [
+                {
+                    "text": "Click to Visit",
+                    "href": "https://fifthreturn.f8testing.com/"
+                }
+                
+            ],
+            "tags" : [
+                "Wordpress",
+                "Avada",
+                "CSS",
+                "JavaScript",
+                "FunctionEight"
+            ]
+        },
+        {
+            "image" : "images/projects/fifthreturn.png",
+            "title": "Fifth Return",
+            "bodyText": "A premiere management consulting firm that aims to help clients with their bussiness.",
+            "links": [
+                {
+                    "text": "Click to Visit",
+                    "href": "https://fifthreturn.f8testing.com/"
+                }
+                
+            ],
+            "tags" : [
+                "Wordpress",
+                "Avada",
+                "CSS",
+                "JavaScript",
+                "FunctionEight"
+            ]
+        },
+        {
+            "image" : "images/projects/caniry.png",
+            "title": "Caniry Digital Agency",
+            "bodyText": "A responsive digital marketing website built using Elementor with Three.JS integrated on it",
+            "links": [
+                {
+                    "text": "Click to Visit",
+                    "href": "https://canirydigitalagency.vercel.app/"
+                }
+                
+            ],
+            "tags" : [
+                "Wordpress",
+                "Elementor",
+                "CSS",
+                "Three.JS",
+                "Personal Project"
+            ]
+        },
+        {
+            "image" : "images/projects/homepage.png",
             "title": "Keith Portfolio",
             "bodyText": "Simple yet astonishing Website Portfolio",
             "links": [
@@ -14,7 +71,8 @@
             "tags" : [
                 "React",
                 "Portfolio",
-                "JavaScript"
+                "JavaScript",
+                "Personal Project"
             ]
         },
         {
@@ -35,7 +93,8 @@
                 "PHP",
                 "WordPress",
                 "Elementor",
-                "Advance Custom Field"
+                "Advance Custom Field",
+                "Personal Project"
             ]
         },
         {
@@ -55,7 +114,8 @@
                 "JavaScript",
                 "PHP",
                 "WordPress",
-                "Elementor"
+                "Elementor",
+                "Personal Project"
             ]
         },
         {
